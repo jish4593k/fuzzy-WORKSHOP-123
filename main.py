@@ -103,3 +103,4 @@ class FuzzyClusteringApp:
 if __name__ == "__main__":
     app = FuzzyClusteringApp()
     app.run()
+#REFERENCE FROM FUZZZYMEANS COPIED SOME PART 
